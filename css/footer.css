@@ -1,0 +1,21 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: rgb(78, 129, 240);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-footer{
+    width: 60%;
+    height: 60px;
+    border-radius: 25px;
+}
+.lista-footer{
+    display: flex;
+    list-style-type: none;
+}
+.item-footer{
+    padding: 15px;
+}
+
